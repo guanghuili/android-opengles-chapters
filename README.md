@@ -1,2 +1,2 @@
-# opengles-android-chapters
-opengles-android-chapters
+# android-opengles-chapters
+android-opengles-chapters
