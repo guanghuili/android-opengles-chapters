@@ -21,7 +21,8 @@ public class FirstOpenGLRenderer implements GLSurfaceView.Renderer
      * @param eglConfig
      */
     @Override
-    public void onSurfaceCreated(GL10 gl10, javax.microedition.khronos.egl.EGLConfig eglConfig) {
+    public void onSurfaceCreated(GL10 gl10, javax.microedition.khronos.egl.EGLConfig eglConfig)
+    {
         GLES20.glClearColor(1f, 0.5f, 0.5f, 1.f);
 
     }
