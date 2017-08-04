@@ -34,6 +34,7 @@ public class AirhockeyRenderer implements GLSurfaceView.Renderer
     private int aPositionLocation;
 
 
+    
     // 在本地内存中存储数据
     private final FloatBuffer vertexData;
 
