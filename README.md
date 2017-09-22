@@ -1,4 +1,4 @@
-## HeadingOpenGL_ES开发开发实践指南 Android卷 学习笔记
+## OpenGL ES开发开发实践指南 Android卷 学习笔记
 
 ## `笔记主要内容`
  * 书中章节添加个人理解和说明
